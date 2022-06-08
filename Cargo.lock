@@ -381,6 +381,7 @@ name = "seedapp"
 version = "0.1.0"
 dependencies = [
  "futures",
+ "gloo-timers",
  "seed",
  "wasm-bindgen-futures",
  "web-sys",
